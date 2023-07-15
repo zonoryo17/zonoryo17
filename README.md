@@ -1,12 +1,10 @@
 <div>
-  <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" width='410' src="https://github-readme-stats.vercel.app/api?username=zonoryo17&theme=one_dark_pro&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonoryo17&layout=compact&theme=one_dark_pro" />
   </a>
-</div>
 </div>
 
 <a href="https://github.com/zonoryo17/github-profile-trophy">
