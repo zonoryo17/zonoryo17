@@ -1,10 +1,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zonoryo17&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zonoryo17&theme=one_dark_pro&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonoryo17" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonoryo17&theme=one_dark_pro" />
 </a>
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
+
+
 
 
 <!--
