@@ -7,36 +7,29 @@
     <img align="left" height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonoryo17&layout=compact&theme=one_dark_pro" />
   </a>
 </div>
+</div>
+
+<a href="https://github.com/zonoryo17/github-profile-trophy">
+  <img width='960' src="https://github-profile-trophy.vercel.app/?username=zonoryo17&column=8&theme=onedark&no-frame=true"/>
+</a>
 
 <p align="left">
   <a href="https://github.com/zonoryo17/zonoryo17/">
     <img src="https://komarev.com/ghpvc/?username=zonoryo17" alt="zonoryo17" />
   </a>
-  <br>
   <a href="https://twitter.com/zonoryo03">
     <img height="20" src="https://img.shields.io/twitter/follow/zonoryo03?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <br>
   <a href="https://github.com/zonoryo17">
     <img height="20" src="https://img.shields.io/github/followers/zonoryo17?label=follow&logo=github&style=flat" />
   </a>
-  <br>
   <a href="http://qiita.com/zonoryo03">
     <img height="20" src="https://qiita-badge.apiapi.app/s/zonoryo03/posts.svg" />
   </a>
-  <br>
   <//qiita.com/zonoryo03">
     <img height="20" src="https://qiita-badge.apiapi.app/s/zonoryo03/contributions.svg" />
   </a>
 </p>
-</div>
-<br>
-<br>
-<p></p>
-
-<a href="https://github.com/zonoryo17/github-profile-trophy">
-  <img width='960' src="https://github-profile-trophy.vercel.app/?username=zonoryo17&column=8&theme=onedark&no-frame=true"/>
-</a>
 
 
 <!--
