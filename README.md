@@ -27,8 +27,10 @@
   <//qiita.com/zonoryo03">
     <img height="20" src="https://qiita-badge.apiapi.app/s/zonoryo03/contributions.svg" />
   </a>
+  <a href="https://zenn.dev/zonoryo03">
+    <img height="20" src="https://badgen.org/img/zenn/zonoryo03/likes?style=flat&5" />
+  </a>
 </p>
-
 
 <!--
 **zonoryo17/zonoryo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
