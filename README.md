@@ -1,16 +1,16 @@
 <div>
   <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zonoryo17&theme=one_dark_pro&count_private=true&show_icons=true" />
+    <img align="left" width='410' src="https://github-readme-stats.vercel.app/api?username=zonoryo17&theme=one_dark_pro&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonoryo17&layout=compact&theme=one_dark_pro" />
+    <img align="left" height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonoryo17&layout=compact&theme=one_dark_pro" />
   </a>
 </div>
 </div>
 
 <a href="https://github.com/zonoryo17/github-profile-trophy">
-  <img width='960' src="https://github-profile-trophy.vercel.app/?username=zonoryo17&column=8&theme=onedark&no-frame=true"/>
+  <img width='845' src="https://github-profile-trophy.vercel.app/?username=zonoryo17&column=8&theme=onedark&no-frame=true"/>
 </a>
 
 <p align="left">
